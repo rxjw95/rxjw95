@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Back-end Engineer **Jangwook Ryu.**
 - 👀 I’m interested in `Java`, `Javascript`
-- 🌱 I’m currently learning 'Spring', 'javascript`
+- 🌱 I’m currently learning `Spring`, `javascript`
 - 📫 How to reach me rxjw95@gmail.com
 - 🧺 My channel link is https://velog.io/@rxjw95
 
