@@ -1,4 +1,4 @@
-# Deep Dive
+# dno
 
 - 👋 Hi, I’m Back-end Engineer **Jangwook Ryu.**
 - 👀 I’m interested in `Java`, `Javascript`
