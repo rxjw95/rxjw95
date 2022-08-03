@@ -1,10 +1,11 @@
-# DINO
+# 수포자 공대생
 
-- 👋 Hi, I’m Back-end Engineer **Jangwook Ryu.**
-- 👀 I’m interested in `Java`, `Javascript`
-- 🌱 I’m currently learning `Spring`, `react`
-- 📫 How to reach me rxjw95@gmail.com
-- 🏄🏻‍♂️ my channel is https://velog.io/@rxjw95 (migrating to Personal host blog.)
+- 👋 I’m Junior Back-end Developer **Jangwook Ryu.**
+- 👀 I’m interested in `Java`, `Kotlin`,`Spring` and `OOP`
+- 📫 Mail: rxjw95@gmail.com
+- 🏄🏻‍♂️ Log: [git pages](https://rxjw95.github.io/)
+
+
 <!---
 rxjw95/rxjw95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
