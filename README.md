@@ -1,9 +1,9 @@
 # 수포자 공대생
 
 - 👋 I’m Junior Back-end Developer **Jangwook Ryu.**
-- 👀 I’m interested in `Java`, `Kotlin`,`Spring` and `OOP`
+- 👀 I’m interested in `Java`, `Kotlin`,`Spring`, `Architecture` and `OOP`
 - 📫 Mail: rxjw95@gmail.com
-- 🏄🏻‍♂️ Log: [git pages](https://rxjw95.github.io/)
+- 🏄🏻‍♂️ Log: [blog](https://rjvv.tistory.com/)
 
 
 <!---
