@@ -3,7 +3,7 @@
 - 👋 I’m Junior Back-end Developer **Jangwook Ryu.**
 - 👀 I’m interested in `Java`, `Kotlin`,`Spring`, `Architecture` and `OOP`
 - 📫 Mail: rxjw95@gmail.com
-- 🏄🏻‍♂️ Log: [blog](https://rjvv.tistory.com/)
+- 🏄🏻‍♂️ Log: [blog](https://rxjw95.github.io/)
 
 
 <!---
